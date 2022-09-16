@@ -49,71 +49,111 @@ function App() {
           </p>
         </div>
       </div>
-      <div>
-        <div>
-          <div className="hero">
-            <div>
-              <img
-                src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/countryside-woman-holding-plant-leaves-1024x819.jpg"
-                alt="logo"
-                height="300px"
-              />
-            </div>
 
-            <div>
-              <h5>SAVE TIME</h5>
-              <h5>Reduce Time Spent On Manual Deshelling And Separation</h5>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-              </p>
-            </div>
-          </div>
+      <main class="main">
+        <div class="main-description">
           <div>
-            <div className="hero">
-              <div>
-                <h5>SAVE TIME</h5>
-                <h5>Reduce Time Spent On Manual Deshelling And Separation</h5>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                  elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus
-                  leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
-                  dapibus leo. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Ut elit tellus, luctus nec ullamcorper
-                  mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit. Ut elit tellus, luctus nec
-                  ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit. Ut elit tellus, luctus
-                  nec ullamcorper mattis, pulvinar dapibus leo.
-                </p>
-              </div>
-              <div>
-                <img
-                  src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/countryside-woman-holding-plant-leaves-1024x819.jpg"
-                  alt="logo"
-                  height="300px"
-                />
-              </div>
-            </div>
+            <img
+              src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/countryside-woman-holding-plant-leaves-1024x819.jpg"
+              alt="/"
+            />
+          </div>
+          <div class="main-description-text">
+            <h2>SAVE TIME</h2>
+            <h1>Reduce Time Spent On Manual Deshelling And Separation</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
+              tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem
+              ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum
+              dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum
+              dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum
+              dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            </p>
           </div>
         </div>
-      </div>
-
-      {/* third slide */}
-
-      <div className="third-page">
-        <h5>GO DIGITAL</h5>
-        <h5>Keep track of product and process orders</h5>
-      </div>
+        <div class="main-description">
+          <div class="main-description-text">
+            <h2>Empower Mechanization.</h2>
+            <h1>Increased Access To Mechanized Tools.</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
+              tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem
+              ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum
+              dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum
+              dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum
+              dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
+              luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            </p>
+          </div>
+          <div class="main-img">
+            <img
+              src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/countryside-workers-together-field-1024x576.jpg"
+              alt="/"
+            />
+          </div>
+        </div>
+      </main>
+      <section>
+        <div class="section-container">
+          <h2>Go Digital</h2>
+          <h1>Keep track of product and process orders</h1>
+          <div class="section-img-container">
+            <img
+              src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/ezgif.com-gif-maker__1_-removebg-preview.png"
+              alt=""
+              class="section-img"
+            />
+          </div>
+        </div>
+      </section>
+      <footer>
+        <div class="footer-container">
+          <div>
+            <img
+              src="https://astract9.tradebigfx.com/wp-content/uploads/2021/06/hdl-logo.png"
+              alt=""
+            />
+            <p>
+              Duis aute irure dolor in repreh enderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat
+              cupidatat non proident.
+            </p>
+          </div>
+          <div>
+            <h1>Quick Links</h1>
+            <ul>
+              <li>Get Involved</li>
+              <li> Donate Now</li>
+              <li> Become a Volunteer</li>
+              <li> Careers</li>
+              <li> Site Map</li>
+            </ul>
+          </div>
+          <div>
+            <h1>Office Links</h1>
+            <ul>
+              <li>USA Office</li>
+              <li> Australia Office</li>
+              <li> Canada Office</li>
+              <li> Networks</li>
+              <li>North America</li>
+            </ul>
+          </div>
+          <div>
+            <h1>Contact Us</h1>
+            <h2>Elliott Ave, Parkville VIC 3052, Melbourne Canada</h2>
+            <h2>Phone: +2348053708531</h2>
+            <h2>Email: gantechloy@gmail.com</h2>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
