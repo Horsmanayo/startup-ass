@@ -50,15 +50,17 @@ function App() {
         </div>
       </div>
 
-      <main class="main">
-        <div class="main-description">
-          <div>
+      <main className="main">
+        <div className="main-description">
+          <div className="main-img">
             <img
               src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/countryside-woman-holding-plant-leaves-1024x819.jpg"
               alt="/"
+              width="500px"
+              height="500px"
             />
           </div>
-          <div class="main-description-text">
+          <div className="main-description-text">
             <h2>SAVE TIME</h2>
             <h1>Reduce Time Spent On Manual Deshelling And Separation</h1>
             <p>
@@ -75,8 +77,8 @@ function App() {
             </p>
           </div>
         </div>
-        <div class="main-description">
-          <div class="main-description-text">
+        <div className="main-description">
+          <div className="main-description-text">
             <h2>Empower Mechanization.</h2>
             <h1>Increased Access To Mechanized Tools.</h1>
             <p>
@@ -92,29 +94,31 @@ function App() {
               luctus nec ullamcorper mattis, pulvinar dapibus leo.
             </p>
           </div>
-          <div class="main-img">
+          <div className="main-img">
             <img
               src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/countryside-workers-together-field-1024x576.jpg"
               alt="/"
+              width="500px"
+              height="500px"
             />
           </div>
         </div>
       </main>
       <section>
-        <div class="section-container">
+        <div className="section-container">
           <h2>Go Digital</h2>
           <h1>Keep track of product and process orders</h1>
-          <div class="section-img-container">
+          <div className="section-img-container">
             <img
               src="https://astract9.tradebigfx.com/wp-content/uploads/2022/05/ezgif.com-gif-maker__1_-removebg-preview.png"
               alt=""
-              class="section-img"
+              className="section-img"
             />
           </div>
         </div>
       </section>
       <footer>
-        <div class="footer-container">
+        <div className="footer-container">
           <div>
             <img
               src="https://astract9.tradebigfx.com/wp-content/uploads/2021/06/hdl-logo.png"
